@@ -1,4 +1,4 @@
-# Alzhimers Detection Using Matlab And Weka
+# Alzheimer's Detection Using Matlab And Weka
 ## 🧠 Alzheimer's Disease Detection Using Machine Learning
 
 This project aims to detect Alzheimer's Disease at early stages by applying machine learning techniques to both image-based and text-based datasets. It utilizes classification, clustering, and image processing methods to differentiate between normal and affected subjects.
